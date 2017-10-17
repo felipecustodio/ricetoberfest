@@ -10,7 +10,7 @@ Your username and profile link:
 
 The Screenshot:
 
-`[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`
+`![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`
 
 Say something about your system! **(OPTIONAL)**
 
