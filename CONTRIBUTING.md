@@ -14,6 +14,8 @@ The Screenshot:
 
 Say something about your system! **(OPTIONAL)**
 
+`Link to your Dotfiles: `
+
 `OS/Distro: `
 
 `Window Manager: `
