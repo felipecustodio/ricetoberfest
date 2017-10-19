@@ -24,6 +24,14 @@ ___
 
 `Shell: zsh`
 ___
+[lionasp](https://github.com/lionasp)
+
+![lionasp](https://i.imgur.com/EHTX5W2.jpg)
+
+`OS/Distro: Linux Mint 18.1 `
+
+`Shell: bash`
+___
 
 
 </p>
