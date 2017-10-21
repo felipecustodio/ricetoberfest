@@ -1,15 +1,13 @@
 <p align="center">
 
-:sushi: ricetoberfest :sushi:
-hacktoberfest - Show off your Linux rice! 
+![Logo](https://i.imgur.com/ThseYJ9.png)
 
-![Hacktoberfest](https://hacktoberfest.digitalocean.com/assets/hacktoberfest-2017-social-card-894a0558dba205f7142f3130c06823d72427a9d751d0f8c7db8a0079397178aa.jpg)
+## What is Ricetoberfest?
+During the month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest), create your very first Pull Request and show off your Linux rice/customization to the world!
 
+## How to rice?
 
-## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first Pull Request to any Public Repository on GitHub and contribute to the Open Source Developer Community.
-
-[https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
+[Start here](https://www.reddit.com/r/unixporn/)
 
 ## RICES!
 
@@ -35,3 +33,7 @@ ___
 
 
 </p>
+
+# Credits
+Onigiri by Wira from the Noun Project
+[Hacktoberfest by Digital Ocean](https://hacktoberfest.digitalocean.com/)
