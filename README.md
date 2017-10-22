@@ -39,6 +39,8 @@ ___
 
 `Window Manager: i3`
 
+`Wallpaper: Hosaka Ono-Sendai Cyberspace 7 by [Kyle Tierce](tierce.design)`
+
 ___
 
 </p>
