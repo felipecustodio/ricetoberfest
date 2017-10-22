@@ -31,6 +31,15 @@ ___
 `Shell: bash`
 ___
 
+[djc2702](https://github.com/djc2702)
+
+![djc2702](https://imgur.com/a/x380d)
+
+`OS/Distro: Ubuntu`
+
+`Window Manager: i3`
+
+___
 
 </p>
 
