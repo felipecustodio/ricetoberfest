@@ -33,7 +33,7 @@ ___
 
 [djc2702](https://github.com/djc2702)
 
-![djc2702](https://imgur.com/a/x380d)
+![djc2702]([Imgur](https://i.imgur.com/uwIzXdT.png))
 
 `OS/Distro: Ubuntu`
 
