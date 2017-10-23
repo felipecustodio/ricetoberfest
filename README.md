@@ -31,6 +31,17 @@ ___
 `Shell: bash`
 ___
 
+[djc2702](https://github.com/djc2702)
+
+![djc2702](https://i.imgur.com/uwIzXdT.png)
+
+`OS/Distro: Ubuntu`
+
+`Window Manager: i3`
+
+`Wallpaper: Hosaka Ono-Sendai Cyberspace 7 by Kyle Tierce: http://www.tierce.design`
+
+___
 
 </p>
 
